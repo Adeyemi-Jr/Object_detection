@@ -1,0 +1,12 @@
+names:
+  0: sedan
+  1: minibus
+  2: truck
+  3: pickup_truck
+  4: bus
+  5: cement_truck
+  6: trailer
+path: /home/adeyemi/Documents/Projects/Vlepsis/Velpsis_data/data/processed/blur_1.0_pixels_downsample_factor_0.33
+train: train/images
+val: val/images
+test: test/images
