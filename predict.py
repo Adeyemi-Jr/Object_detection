@@ -66,7 +66,7 @@ images_to_video(images_path_output, 'Towson')
 #                   Predictions                       #
 #######################################################
 #datasets= ['Highway', 'Towson']
-datasets= ['Towson']
+datasets= ['Highway','Towson']
 
 
 

@@ -101,7 +101,7 @@ for i in blur_rate:
 
 
     #Use model
-    results = model.train(data='config.yaml',epochs = 100,
+    results = model.train(data='config.yaml',epochs = 500,
                           scale = 0.5,
                           degrees = 0.5,
                           translate = 0.5,
